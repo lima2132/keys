@@ -468,6 +468,7 @@ nav ul {
   }
   .nav__mobile {
     display: flex;
+    width: 80%;
   }
   .logo {
     order: 1;
@@ -484,4 +485,5 @@ nav ul {
   .banner {
     display: none;
   }
+  
 }
