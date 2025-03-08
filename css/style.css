@@ -430,6 +430,13 @@ main {
   }
 }
 @media (max-width: 768px) {
+  .divider {
+    display: none;
+  }
+  .wrapper {
+    margin-top: 50px;
+    padding: 0;
+  }
   .logo__right {
     display: none;
   }
