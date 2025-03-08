@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Agrandir";
+  src: url("../fonts/AgrandirBold.woff") format("woff");
+  font-weight: bold;
+}
+.terms {
+  padding: 20px;
+  font-family: "Agrandir", sans-serif;
+}
